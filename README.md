@@ -4,16 +4,15 @@
   <img src="https://github.com/user-attachments/assets/e26f6218-f607-49c0-b26b-97cc0ee79960" alt="Profile Banner" />
 </div>
 
-<!-- Add the animation below your introduction -->
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=Welcome+to+my+Profile!;Have+a+nice+stay." alt="Typing SVG" />
-</p>
-
 🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
 💻 Passionate about **system monitoring, automation, and game development**.
 
----
+<!-- Add the animation below your introduction with spaces to center -->
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=%20%20%20%20%20%20%20%20%20%20%20%20Welcome+to+my+Profile!;%20%20%20%20%20%20%20%20%20%20%20%20Have+a+nice+stay." alt="Typing SVG" />
+</p>
 
+---
 
 ## 📋 About Me:
 <p align="center">

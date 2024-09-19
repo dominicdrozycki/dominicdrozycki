@@ -1,26 +1,24 @@
 # Hi, I'm Dom! 👋
 
 ![Profile Banner](https://github.com/user-attachments/assets/e26f6218-f607-49c0-b26b-97cc0ee79960)
-<p align="center">
-![ac3225ba36b5f3a1d5038ac762543ab2](https://github.com/user-attachments/assets/d6cef6ff-51e6-40e8-abe0-6e74aba63ae7)
-
-</p>
 
 🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
 💻 Passionate about **system monitoring, automation, and game development**.
 
 <!-- Add the animation below your introduction -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&background=0D1117&width=435&lines=Welcome+to+my+profile!;System+Monitoring+%7C+Automation+%7C+Games!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=Welcome+to+my+Profile!;Have+a+nice+stay." alt="Typing SVG" />
 </p>
 
 ---
 
 ## 📋 About Me:
-- 🎓 Currently finishing my Bachelor's in Information Technology.
-- 💻 Passionate about Python, web development, and AI/ML.
-- 🕹️ Working on a 3D game project and system monitoring dashboard.
+<p align="center">
+- 🎓 Currently finishing my Bachelor's in Information Technology.<br>
+- 💻 Passionate about Python, web development, and AI/ML.<br>
+- 🕹️ Working on a 3D game project and system monitoring dashboard.<br>
 - ⚡ Fun fact: I'm an avid gamer and love exploring creative projects!
+</p>
 
 ---
 
@@ -37,7 +35,6 @@
 ---
 
 # 💻 Tech Stack:
-
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -86,7 +83,6 @@
   <img src="https://img.shields.io/badge/trello-%23026AA7.svg?style=flat-square&logo=trello&logoColor=white" alt="Trello" />
 </p>
 
-
 ---
 
 # 📊 GitHub Stats:
@@ -101,7 +97,9 @@
 
 ---
 
-![Visitor Badge](https://visitcount.itsvg.in/api?id=dominicdrozycki&icon=0&color=0)
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=dominicdrozycki&icon=0&color=0" alt="Visitor Count">
+</p>
 
 ---
 

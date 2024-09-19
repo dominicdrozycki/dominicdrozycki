@@ -3,7 +3,7 @@
 ![ac3225ba36b5f3a1d5038ac762543ab2](https://github.com/user-attachments/assets/e26f6218-f607-49c0-b26b-97cc0ee79960)
 
 
-🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University.
+🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
 💻 Passionate about system monitoring, automation, and game development.
 
 ## 📋 About Me:

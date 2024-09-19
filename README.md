@@ -4,13 +4,13 @@
   <img src="https://github.com/user-attachments/assets/e26f6218-f607-49c0-b26b-97cc0ee79960" alt="Profile Banner" />
 </div>
 
-🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
-💻 Passionate about **system monitoring, automation, and game development**.
-
 <!-- Add the animation below your introduction -->
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=Welcome+to+my+Profile!;Have+a+nice+stay." alt="Typing SVG" />
 </p>
+
+🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
+💻 Passionate about **system monitoring, automation, and game development**.
 
 ---
 

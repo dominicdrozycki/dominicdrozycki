@@ -106,6 +106,10 @@
 ---
 
 ## 💰 You can help me by Donating:
+<div align="center">
+  ![85cb0d2271fdbdd1a711ba246df02cef](https://github.com/user-attachments/assets/f89a4a6a-189b-4c94-9c0d-a916ab95b585)
+</div>
+
 <p align="center">
     <a href="https://buymeacoffee.com/dominicdroh" target="_blank">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">

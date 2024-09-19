@@ -1,6 +1,8 @@
 # Hi, I'm Dom! 👋
 
-![Profile Banner](https://github.com/user-attachments/assets/e26f6218-f607-49c0-b26b-97cc0ee79960)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e26f6218-f607-49c0-b26b-97cc0ee79960" alt="Profile Banner" />
+</div>
 
 🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
 💻 Passionate about **system monitoring, automation, and game development**.
@@ -11,6 +13,7 @@
 </p>
 
 ---
+
 
 ## 📋 About Me:
 <p align="center">

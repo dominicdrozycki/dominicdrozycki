@@ -1,5 +1,8 @@
+Hi I'm Dom
+
 # 💫 About Me:
-![ac3225ba36b5f3a1d5038ac762543ab2](https://github.com/user-attachments/assets/7dd6279b-b9ab-4e59-8c16-dd951f0b1feb)
+![ac3225ba36b5f3a1d5038ac762543ab2](https://github.com/user-attachments/assets/47f7f9ea-80fa-4d92-af7a-fa37175c783a)
+
 
 
 🔭 I’m currently working on my Bachelors Degree in Information Technology🤝 I’m looking for help with landing a IT entry level position<br>🌱 I’m currently learning JavaScript, Unreal Engine 5, RStudio<br>⚡ Fun fact : I recently got my CompTIA Network+ Certification
@@ -19,7 +22,8 @@
 [![](https://visitcount.itsvg.in/api?id=dominicdrozycki&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-![85cb0d2271fdbdd1a711ba246df02cef](https://github.com/user-attachments/assets/49b9f1a6-8686-4763-a646-f97bc1b96df8)
+![85cb0d2271fdbdd1a711ba246df02cef](https://github.com/user-attachments/assets/0702b941-0301-420b-9cc0-19055490e2d9)
+
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dominicdroh) 
 

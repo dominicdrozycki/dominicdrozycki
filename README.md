@@ -106,8 +106,9 @@
 ---
 
 ## 💰 You can help me by Donating:
+
 <div align="center">
-  ![85cb0d2271fdbdd1a711ba246df02cef](https://github.com/user-attachments/assets/f89a4a6a-189b-4c94-9c0d-a916ab95b585)
+  <img src="https://github.com/user-attachments/assets/f89a4a6a-189b-4c94-9c0d-a916ab95b585" alt="Image" />
 </div>
 
 <p align="center">

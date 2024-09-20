@@ -6,8 +6,9 @@
 
 <!-- Adding more spaces in the typing animation -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=450&lines=%20%20%20%20%20%20%20%20Welcome+to+my+Profile!;%20%20%20%20%20%20%20%20Have+a+nice+stay" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=600&lines=%20%20%20%20%20%20%20%20Welcome+to+my+Profile!;%20%20%20%20%20%20%20%20Have+a+nice+stay" alt="Typing SVG" />
 </p>
+
 
 <div align="center">
   🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>

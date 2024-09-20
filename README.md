@@ -4,21 +4,15 @@
   <img src="https://github.com/user-attachments/assets/e26f6218-f607-49c0-b26b-97cc0ee79960" alt="Profile Banner" />
 </div>
 
-<!-- Adding non-breaking spaces for better centering -->
+<!-- Adding more spaces in the typing animation -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=450&lines=%20%20%20%20Welcome+to+my+Profile!;%20%20%20%20Have+a+nice+stay" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=450&lines=%20%20%20%20%20%20%20%20Welcome+to+my+Profile!;%20%20%20%20%20%20%20%20Have+a+nice+stay" alt="Typing SVG" />
 </p>
 
 <div align="center">
   🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
   💻 Passionate about **system monitoring, automation, and game development**.
 </div>
-
-<!-- Inserting invisible characters for text centering -->
-<div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my Profile!
-</div>
-
 
 
 ---

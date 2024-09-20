@@ -9,18 +9,19 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&background=FFFFFF&width=435&lines=%20%20%20%20Welcome+to+my+Profile!;%20%20%20%20Have+a+nice+stay" alt="Typing SVG" />
 </p>
 
-
-🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
-💻 Passionate about **system monitoring, automation, and game development**.
+<div align="center">
+  🎓 I'm a student pursuing a Bachelor's degree in Information Technology at Towson University. <br>
+  💻 Passionate about **system monitoring, automation, and game development**.
+</div>
 
 ---
 
 ## 📋 About Me:
 <p align="center">
-- 🎓 Currently finishing my Bachelor's in Information Technology.<br>
-- 💻 Passionate about Python, web development, and AI/ML.<br>
-- 🕹️ Working on a 3D game project and system monitoring dashboard.<br>
-- ⚡ Fun fact: I'm an avid gamer and love exploring creative projects!
+  - 🎓 Currently finishing my Bachelor's in Information Technology.<br>
+  - 💻 Passionate about Python, web development, and AI/ML.<br>
+  - 🕹️ Working on a 3D game project and system monitoring dashboard.<br>
+  - ⚡ Fun fact: I'm an avid gamer and love exploring creative projects!
 </p>
 
 ---

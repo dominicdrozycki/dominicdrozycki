@@ -33,7 +33,7 @@
     <a href="https://www.linkedin.com/in/dominic-rozycki-527b00279/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://dominicrozycki.github.io/" target="_blank">
+    <a href="https://github.com/dominicdrozycki?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=github" alt="Portfolio">
     </a>
 </p>
